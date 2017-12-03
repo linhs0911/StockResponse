@@ -1,0 +1,88 @@
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\Bot Application.dll.config
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\Bot Application.dll
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\Bot Application.pdb
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\Autofac.dll
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\Chronic.dll
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\Newtonsoft.Json.dll
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\System.Net.Http.Formatting.dll
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\System.Web.Http.dll
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\System.Web.Http.WebHost.dll
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\Autofac.xml
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\Newtonsoft.Json.xml
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\System.Net.Http.Formatting.xml
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\System.Web.Http.xml
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\System.Web.Http.WebHost.xml
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\obj\Debug\StockBot.csprojResolveAssemblyReference.cache
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\obj\Debug\StockBot.csproj.CoreCompileInputs.cache
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\obj\Debug\Bot Application.dll
+C:\Users\stanl\OneDrive\Code\StockBot\StockBot\obj\Debug\Bot Application.pdb
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\Bot Application.dll.config
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\Bot Application.dll
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\Bot Application.pdb
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\Autofac.dll
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\Chronic.dll
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\Newtonsoft.Json.dll
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\System.Net.Http.Formatting.dll
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\System.Web.Http.dll
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\System.Web.Http.WebHost.dll
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\Autofac.xml
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\Newtonsoft.Json.xml
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\System.Net.Http.Formatting.xml
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\System.Web.Http.xml
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\System.Web.Http.WebHost.xml
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\obj\Debug\StockBot.csprojResolveAssemblyReference.cache
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\obj\Debug\StockBot.csproj.CoreCompileInputs.cache
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\obj\Debug\Bot Application.dll
+C:\Users\stanl\OneDrive\12th微軟學生大使\20171108\StockBot\StockBot\obj\Debug\Bot Application.pdb
